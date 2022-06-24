@@ -7,3 +7,12 @@ shootEffect: shootBig2
 smokeEffect:shootBigSmoke2
 receiveEffect: mineBig
 shake: 3
+requirements: [
+lead/125
+thorium/50
+silicon/75
+surge-alloy/125
+]
+category: distribution
+research: mass-driver
+description: Upgraded long-range transport structure. Collects batches of items and shoots them to other mass drivers.
