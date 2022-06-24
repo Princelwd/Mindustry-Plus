@@ -1,6 +1,6 @@
 name: Surge Mass Driver
 health: 480
-rotateSpeed: 0.04
+rotateSpeed: 0.08
 translation: 7
 minDistribute: 20
 knockback: 4
