@@ -1,7 +1,7 @@
-name: Surge Alloy Mass Driver
+name: Surge Mass Driver
 rotateSpeed: 0.04
 translation: 7
-minDistribute: 10
+minDistribute: 20
 knockback: 4
 reloadTime: 25
 shootEffect: shootBig2
@@ -18,6 +18,8 @@ category: distribution
 research: mass-driver
 description: Upgraded long-range transport structure. Collects batches of items and shoots them to other mass drivers.
 type: MassDriver
-range: 432
+range: 440
 size: 3
 hasPower: true
+powerUse: 120
+itemCapacity: 240

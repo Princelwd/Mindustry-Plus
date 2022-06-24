@@ -1,5 +1,5 @@
 type: Conveyor
-name: Surge Alloy Conveyor
+name: Surge Conveyor
 description: Transports items forward. Faster than a titanium conveyor but slower than a plastanium conveyor at peak efficiency. Faster than a plastanium conveyor with 1 loading point.
 health: 105
 speed: 0.18f
