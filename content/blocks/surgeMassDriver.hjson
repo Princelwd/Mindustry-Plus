@@ -23,6 +23,6 @@ range: 440
 size: 3
 hasPower: true
 consumes: {
-power: 120
+power: 2
 }
 itemCapacity: 240

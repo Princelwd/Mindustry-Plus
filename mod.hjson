@@ -2,5 +2,5 @@ name: "Mindustry Plus"
 displayName: "Mindustry Plus"
 author: "gos#4101"
 description: "Enhances the vanilla experience."
-version: "0.0.1"
+version: "0.0.2"
 minGameVersion: 106
