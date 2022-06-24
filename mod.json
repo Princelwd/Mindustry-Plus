@@ -1,0 +1,10 @@
+{
+  "name": "surge-conveyors",
+  "displayName": "Surge Conveyors",
+  "author": "gos#4101",
+  "description": "Adds surge conveyors.",
+  "version": "1.0",
+  "minGameVersion": "106",
+  "dependencies": [],
+  "hidden": false
+}
