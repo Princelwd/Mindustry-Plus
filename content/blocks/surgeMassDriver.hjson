@@ -17,3 +17,4 @@ category: distribution
 research: mass-driver
 description: Upgraded long-range transport structure. Collects batches of items and shoots them to other mass drivers.
 type: MassDriver
+range: 128
