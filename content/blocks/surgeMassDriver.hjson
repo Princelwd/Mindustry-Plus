@@ -21,5 +21,6 @@ type: MassDriver
 range: 440
 size: 3
 hasPower: true
-powerUse: 120
+consumesPower: true
+power: 120
 itemCapacity: 240
