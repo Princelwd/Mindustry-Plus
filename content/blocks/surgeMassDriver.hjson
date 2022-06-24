@@ -1,4 +1,5 @@
 name: Surge Mass Driver
+health: 480
 rotateSpeed: 0.04
 translation: 7
 minDistribute: 20
@@ -21,6 +22,7 @@ type: MassDriver
 range: 440
 size: 3
 hasPower: true
-consumesPower: true
+consumes: {
 power: 120
+}
 itemCapacity: 240
