@@ -1,0 +1,9 @@
+rotateSpeed: 0.04
+translation: 7
+minDistribute: 10
+knockback: 4
+reloadTime: 100
+shootEffect: shootBig2
+smokeEffect:shootBigSmoke2
+receiveEffect: mineBig
+shake: 3
