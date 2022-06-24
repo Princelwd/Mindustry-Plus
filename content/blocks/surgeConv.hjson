@@ -1,7 +1,7 @@
 type: Conveyor
 name: Surge Alloy Conveyor
 health: 105
-speed: 0.12f
+speed: 0.18f
 displayedSpeed: 15f
 requirements: [
 copper/3
