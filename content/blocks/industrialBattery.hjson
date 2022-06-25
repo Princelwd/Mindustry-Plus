@@ -5,7 +5,7 @@ description: Stores huge amounts of power.
 size: 4
 hasPower: true
 consumes: {
-powerBuffered: 10
+powerBuffered: 250000
 }
 reasearch: large-battery
 requirements: [
