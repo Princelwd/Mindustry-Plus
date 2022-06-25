@@ -4,7 +4,9 @@ type: battery
 description: Stores huge amounts of power.
 size: 4
 hasPower: true
-powerBuffered: 20
+consumes: {
+powerBuffered: 10
+}
 reasearch: large-battery
 requirements: [
 lead/60
