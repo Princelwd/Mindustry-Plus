@@ -1,0 +1,17 @@
+name: Industrial Battery
+category: power
+type: battery
+description: Stores huge amounts of power.
+size: 5
+hasPower: true
+powerBuffered: 20
+consumes: {
+power: 10
+}
+reasearch: large-battery
+requirements: [
+lead/60
+titanium/30
+silicon/30
+surge-alloy/10
+]
