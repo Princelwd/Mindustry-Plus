@@ -2,12 +2,9 @@ name: Industrial Battery
 category: power
 type: battery
 description: Stores huge amounts of power.
-size: 5
+size: 4
 hasPower: true
 powerBuffered: 20
-consumes: {
-power: 10
-}
 reasearch: large-battery
 requirements: [
 lead/60
