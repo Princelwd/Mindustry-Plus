@@ -1,6 +1,8 @@
 # Mindustry-Plus
 Fleshes out the Mindustry experience by adding some missing blocks and improving the quality of gameplay. WARNING: EARLY DEVELOPMENT, USE AT YOUR OWN RISK!
 
+Contact gos#4101 if you have any issues or suggestions.
+
 Feature list:
 - Industrial battery
   - Power capacity of 250,000.
