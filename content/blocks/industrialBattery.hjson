@@ -7,7 +7,7 @@ hasPower: true
 consumes: {
 powerBuffered: 250000
 }
-research: large-battery
+
 requirements: [
 lead/60
 titanium/30
